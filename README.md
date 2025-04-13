@@ -1,1 +1,1 @@
-##An API i wrote in go that gives you memes form Redit
+API to get memez for your website
